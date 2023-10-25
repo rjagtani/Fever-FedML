@@ -1,0 +1,12 @@
+numpy
+pandas
+flwr
+scikit-learn
+openml
+matplotlib
+xgboost
+torch
+torchmetrics
+torchvision
+tqdm
+flwr-nightly[simulation]
